@@ -65,7 +65,7 @@
       <service android:name="com.amap.api.location.APSService"></service>
     </config-file>
 
-    <source-file src="src/android/AMap_Location_V3.7.0_20171218.jar" target-dir="libs"/>
+    <source-file src="src/android/AMap_Location_V4.5.1_20190402.jar" target-dir="libs"/>
     <source-file src="src/android/LocationPlugin.java" target-dir="src/com/kit/cordova/AMapLocation"/>
   </platform>
 
